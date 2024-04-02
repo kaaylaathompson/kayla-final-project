@@ -1,0 +1,112 @@
+{
+  "plants": [
+    {
+      "slug": "zz-plant",
+      "headline": "ZZ Plant",
+      "subhead": "Zamioculcas zamiifolia",
+      "image": "zz_plant.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "spider-plant",
+      "headline": "Spider Plant",
+      "subhead": "Chlorophytum comosum",
+      "image": "spider_plant.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "prickly-pear-cactus",
+      "headline": "Prickly Pear Cactus",
+      "subhead": "Opuntia",
+      "image": "prickly_pear.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "snake-plant",
+      "headline": "Snake Plant",
+      "subhead": "Dracaena trifasciata",
+      "image": "snake_plant.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "golden-pothos",
+      "Headline": "Golden Pothos",
+      "subhead": "Epipremnum aureum",
+      "image": "golden_pothos.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "lucky-bamboo",
+      "Headline": "Lucky Bamboo",
+      "subhead": "Dracaena sanderiana",
+      "image": "lucky_bamboo.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "burros-tail",
+      "Headline": "Burro’s Tail",
+      "subhead": "Sedum morganianum",
+      "image": "burros_tail.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "ponytail-palm",
+      "Headline": "Ponytail Palm",
+      "subhead": "Beaucarnea recurvata",
+      "image": "ponytail_palm.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    },
+    {
+      "slug": "philodendron",
+      "Headline": "Philodendron",
+      "subhead": "Philodendron spp.",
+      "image": "philodendron.jpeg",
+      "post": [
+        {
+          "type": "text",
+          "value": "Paragraphs of text."
+        }
+      ]
+    }
+  ]
+}

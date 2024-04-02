@@ -1,0 +1,21 @@
+{% extends '_templates/base.njk' %}
+
+{% block page_title %}Beginner Plants{% endblock %}
+
+{% block page_description %}A list of pirate ships of lore from fact and fiction.{% endblock %}
+
+{% block content %}
+<article class="container">
+  <h1>Ships of the Golden Age of pirates</h1>
+  <p>Intro text here.</p>
+  <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+    {% for ship in pirates.ships %}
+    <div class="col">
+
+    </div>
+    {% endfor %}
+  </div>
+  
+  
+</article>
+{% endblock %}
