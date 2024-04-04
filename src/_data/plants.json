@@ -50,7 +50,7 @@
     },
     {
       "slug": "golden-pothos",
-      "Headline": "Golden Pothos",
+      "headline": "Golden Pothos",
       "subhead": "Epipremnum aureum",
       "image": "golden_pothos.jpeg",
       "post": [
@@ -62,7 +62,7 @@
     },
     {
       "slug": "lucky-bamboo",
-      "Headline": "Lucky Bamboo",
+      "headline": "Lucky Bamboo",
       "subhead": "Dracaena sanderiana",
       "image": "lucky_bamboo.jpeg",
       "post": [
@@ -74,7 +74,7 @@
     },
     {
       "slug": "burros-tail",
-      "Headline": "Burro’s Tail",
+      "headline": "Burro’s Tail",
       "subhead": "Sedum morganianum",
       "image": "burros_tail.jpeg",
       "post": [
@@ -86,7 +86,7 @@
     },
     {
       "slug": "ponytail-palm",
-      "Headline": "Ponytail Palm",
+      "headline": "Ponytail Palm",
       "subhead": "Beaucarnea recurvata",
       "image": "ponytail_palm.jpeg",
       "post": [
@@ -98,7 +98,7 @@
     },
     {
       "slug": "philodendron",
-      "Headline": "Philodendron",
+      "headline": "Philodendron",
       "subhead": "Philodendron spp.",
       "image": "philodendron.jpeg",
       "post": [
