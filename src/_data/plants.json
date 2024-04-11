@@ -4,11 +4,23 @@
       "slug": "zz-plant",
       "headline": "ZZ Plant",
       "subhead": "Zamioculcas zamiifolia",
-      "image": "zz_plant.jpeg",
+      "image": "zz-plant.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "ZZ plants are fantastic low-maintenance houseplants, perfect for beginners or anyone who wants greenery without much fuss."
+        },
+        {
+          "type": "text",
+          "value": "Light- Can tolerate low light conditions, but prefer bright, indirect light. Direct sunlight can scorch their leaves. They can also survive in artificial light."
+        },
+        {
+          "type": "text",
+          "value": "Water- ZZ plants are drought-tolerant and prefer to dry out between waterings. Overwatering is a common mistake that can lead to root rot. Water them thoroughly, then let the soil dry out almost completely before watering again. Typically, watering once every 2-3 weeks is sufficient."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Keeping ZZ plants in their nursery pot is great, and planting in terra cotta or ceramic work, too. Whatever pot you use, make sure it has at least one drainage hole so the excess water can flow out."
         }
       ]
     },
@@ -16,11 +28,23 @@
       "slug": "spider-plant",
       "headline": "Spider Plant",
       "subhead": "Chlorophytum comosum",
-      "image": "spider_plant.jpeg",
+      "image": "spider-plant.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Spider plants, known for their arching foliage and ability to produce \"spiderettes\" or baby plants, are easy to care for."
+        },
+        {
+          "type": "text",
+          "value": "Light- Thrive in bright, indirect light, but can tolerate lower light conditions. Avoid direct sunlight, as it can scorch their leaves. They can also adapt to artificial light indoors."
+        },
+        {
+          "type": "text",
+          "value": "Water- Keep the soil evenly moist during the growing season (spring and summer). Water the plant thoroughly when the top inch of soil feels dry to the touch, allowing excess water to drain away. Reduce watering in the winter, letting the soil dry out more between waterings to prevent root rot."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Choose a container that's porous, like terracotta, and ensure it has a drainage hole. Spider plants hate to sit in standing water."
         }
       ]
     },
@@ -28,11 +52,23 @@
       "slug": "prickly-pear-cactus",
       "headline": "Prickly Pear Cactus",
       "subhead": "Opuntia",
-      "image": "prickly_pear.jpeg",
+      "image": "prickly-pear.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Caring for a prickly pear cactus, also known as Opuntia or paddle cactus, is relatively straightforward."
+        },
+        {
+          "type": "text",
+          "value": "Light- They thrive in full sun. Place them in a location where they can receive at least 6-8 hours of direct sunlight per day, such as a south-facing window. If grown outdoors, ensure they receive adequate sunlight and protect them from excessive shade."
+        },
+        {
+          "type": "text",
+          "value": "Water- Prickly pear cacti are drought-tolerant and prefer infrequent but deep waterings. Allow the soil to dry out completely between waterings to prevent root rot. During the growing season, water sparingly, approximately once every 2-3 weeks. Reduce watering in the winter when the plant is dormant."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Choose a pot with generous drainage holes at the bottom. It's a good idea to choose a low, wide pot to provide a good balance, as these plants will sprawl as they grow."
         }
       ]
     },
@@ -40,11 +76,23 @@
       "slug": "snake-plant",
       "headline": "Snake Plant",
       "subhead": "Dracaena trifasciata",
-      "image": "snake_plant.jpeg",
+      "image": "snake-plant.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Snake plants, also known as Sansevieria, are popular houseplants known for their striking foliage and low maintenance requirements."
+        },
+        {
+          "type": "text",
+          "value": "Light- They can tolerate a wide range of light conditions, from low to bright indirect light. They will grow best in indirect sunlight, but they can also survive in low-light conditions. Avoid exposing them to direct sunlight, as it can scorch their leaves."
+        },
+        {
+          "type": "text",
+          "value": "Water- Snake plants prefer to dry out between waterings. Water them thoroughly, then allow the soil to dry out almost completely before watering again. In most indoor environments, watering every 2-4 weeks should be sufficient. Err on the side of underwatering rather than overwatering, as they are more tolerant of dry soil than soggy soil."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Select a planter that is a little bit bigger than the plant you are purchasing. Look for a wide planter that will balance this top-heavy plant. You can choose a self-watering container, or a planter and saucer. Terra cotta clay pots are a good choice for sansevieria because they are naturally drying."
         }
       ]
     },
@@ -52,11 +100,23 @@
       "slug": "golden-pothos",
       "headline": "Golden Pothos",
       "subhead": "Epipremnum aureum",
-      "image": "golden_pothos.jpeg",
+      "image": "golden-pothos.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Caring for a Golden Pothos is relatively simple, making it a popular choice for both beginner and experienced indoor gardeners."
+        },
+        {
+          "type": "text",
+          "value": "Light- Thrives in indirect or filtered sunlight but can tolerate low light conditions. Avoid direct sunlight, as it can scorch the leaves. Place your plant near a window with a sheer curtain or in a room with bright, indirect light."
+        },
+        {
+          "type": "text",
+          "value": "Water- Allow the top inch or two of the soil to dry out between waterings. Stick your finger into the soil to check for moisture; if it feels dry, it's time to water. Overwatering can lead to root rot, so it's better to underwater than overwater. Water thoroughly and allow excess water to drain away."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Use a plastic, ceramic, metal, or terracotta pot with sufficient drainage. If your pothos lives in an area with low light, consider using terracotta, which helps wick away moisture."
         }
       ]
     },
@@ -64,11 +124,23 @@
       "slug": "lucky-bamboo",
       "headline": "Lucky Bamboo",
       "subhead": "Dracaena sanderiana",
-      "image": "lucky_bamboo.jpeg",
+      "image": "lucky-bamboo.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Caring for lucky bamboo is relatively easy, and it's believed to bring good luck and positive energy to its surroundings."
+        },
+        {
+          "type": "text",
+          "value": "Light- Lucky bamboo prefers bright, indirect light but can also tolerate lower light conditions. Avoid placing it in direct sunlight, as this can scorch the leaves. If the plant is kept in low light, it may grow more slowly."
+        },
+        {
+          "type": "text",
+          "value": "Water- Replenish your lucky bamboo with fresh water every seven to 10 days to keep it happy and healthy."
+        },
+        {
+          "type": "text",
+          "value": "Pot- These plants aren't too picky about the type of container you choose. They can tolerate terracotta, plastic, glazed ceramic, and glass pots"
         }
       ]
     },
@@ -76,11 +148,23 @@
       "slug": "burros-tail",
       "headline": "Burro’s Tail",
       "subhead": "Sedum morganianum",
-      "image": "burros_tail.jpeg",
+      "image": "burros-tail.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Burro's Tail is a beautiful succulent with trailing stems adorned with delicate, plump leaves."
+        },
+        {
+          "type": "text",
+          "value": "Light- Burro's Tail thrives in bright, indirect light. Place it near a south- or west-facing window where it can receive plenty of sunlight without being exposed to direct sunlight, which can scorch its leaves. If you notice the leaves becoming elongated or stretching, it may be an indication that it needs more light."
+        },
+        {
+          "type": "text",
+          "value": "Water- Water thoroughly when the top inch or so of the soil feels dry to the touch. Allow excess water to drain away, and never let the plant sit in water, as this can lead to root rot."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Pots made from clay, wood, metal, or glass are all good choices for a burro's tail succulent."
         }
       ]
     },
@@ -88,11 +172,23 @@
       "slug": "ponytail-palm",
       "headline": "Ponytail Palm",
       "subhead": "Beaucarnea recurvata",
-      "image": "ponytail_palm.jpeg",
+      "image": "ponytail-palm.jpeg",
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Ponytail palms can thrive and bring a touch of tropical elegance to your indoor or outdoor space."
+        },
+        {
+          "type": "text",
+          "value": "Light- Prefers bright, indirect light but can tolerate lower light conditions. Place your plant near a window where it can receive plenty of sunlight, but avoid placing it in direct sunlight for extended periods, as this can scorch its leaves. If grown indoors, a south- or west-facing window is ideal."
+        },
+        {
+          "type": "text",
+          "value": "Water- Ponytail palms have a bulbous trunk that stores water, making them drought-tolerant. Water your plant thoroughly, allowing the soil to dry out partially between waterings. In the winter months or when the plant is dormant, water sparingly to prevent overwatering."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Ponytail palms like to be a little crowded in their containers, so select a pot that is no more than 2 inches wider all around than the base of the plant. It should also have a drainage hole."
         }
       ]
     },
@@ -104,7 +200,19 @@
       "post": [
         {
           "type": "text",
-          "value": "Paragraphs of text."
+          "value": "Philodendrons are popular houseplants known for their lush foliage and ease of care."
+        },
+        {
+          "type": "text",
+          "value": "Light- They thrive in bright, indirect light. They can tolerate lower light conditions but may not grow as vigorously. Avoid direct sunlight, as it can scorch the leaves. Place your philodendron near a window with filtered sunlight or in a well-lit room."
+        },
+        {
+          "type": "text",
+          "value": "Water- Water when the top inch or two of the soil feels dry to the touch. Water thoroughly, allowing excess water to drain away from the bottom of the pot."
+        },
+        {
+          "type": "text",
+          "value": "Pot- Choose a glazed ceramic pot, plastic pot, or hanging basket that is 1 to 2 inches larger in diameter than the root ball of your plant."
         }
       ]
     }
