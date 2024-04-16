@@ -1,0 +1,103 @@
+{
+  "nurseries": [
+    {
+      "nursery_name": "Barton Springs Nursery",
+      "slug": "barton-springs",
+      "url": "https://bartonspringsnursery.com/",
+      "address": "3601 Bee Cave Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78746
+    },
+    {
+      "nursery_name": "Sledd Nursery",
+      "slug": "sledd",
+      "url": "http://www.sleddnursery.com/",
+      "address": "1211 W Lynn St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78703
+    },
+    {
+      "nursery_name": "The Great Outdoors",
+      "slug": "great-outdoors",
+      "url": "https://gonursery.com/",
+      "address": "2730 S Congress Ave",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78704
+    },
+    {
+      "nursery_name": "Shoal Creek Nursery",
+      "slug": "shoal-creek",
+      "url": "https://shoalcreeknursery.com/",
+      "address": "2710 Hancock Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78731
+    },
+    {
+      "nursery_name": "Eden House Botanicals",
+      "slug": "eden-house",
+      "url": "https://www.edenhousebotanicals.shop/",
+      "address": "9609b David Moore Dr",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78748
+    },
+    {
+      "nursery_name": "Tillery Street Plant Co.",
+      "slug": "tillery-street",
+      "url": "https://www.tillerystreetplantcotx.com/",
+      "address": "801 Tillery St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78702
+    },
+    {
+      "nursery_name": "Frond Plant Shop",
+      "slug": "frond",
+      "url": "https://frondaustin.com/",
+      "address": "1904 S Lamar Blvd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78704
+    },
+    {
+      "nursery_name": "East Austin Succulents",
+      "slug": "east-austin-succulents",
+      "url": "https://www.eastaustinsucculentstx.com/",
+      "address": "801 Tillery St",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78702
+    },
+    {
+      "nursery_name": "The Natural Gardener",
+      "slug": "natural-gardener",
+      "url": "https://tngaustin.com/",
+      "address": "8648 Old Bee Caves Rd",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78735
+    },
+    {
+      "nursery_name": "Succulent Native",
+      "slug": "succulent-native",
+      "url": "https://www.succulentnative.com/",
+      "address": "5501 N. Lamar Blvd. #101A",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78751
+    },
+    {
+      "nursery_name": "Austin Plant Supply",
+      "slug": "austin-plant-supply",
+      "url": "https://austinplantsupply.com/",
+      "address": "443 Bastrop Hwy",
+      "city": "Austin",
+      "state": "TX",
+      "zip": 78741
+    }
+  ]
+}

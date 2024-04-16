@@ -2,17 +2,15 @@
 
 {% block page_title %}Homepage{% endblock %}
 
-{% block content %}
-<div class="container">
-  <p>Content goes here</p>
-</div>
+{% block page_description %}Homepage for beginner plant website.{% endblock %}
 
-<h2>Plant nursery loop</h2>
-  <p>This loops through data that came from a Google Sheet example.</p>
-  <hr>
-  {% for nursery in nursery.nurseries %}
-    <h3><a href="{{ nursuery.url }}" target="_blank">{{ nursery.nursery_name }}</a></h3>
+{% block content %}
+<article class="container">
+  <div class="nursery">
+    {% for nursery in nurseries.nurseries %}
+    <h3><a href="{{ nursery.url }}" target="_blank">{{ nursery.nursery_name }}</a></h3>
     <p>{{ nursery.address }}, {{ nursery.city }}, {{ nursery.state }} {{ nursery.zip }}</p>
-    <hr>
-  {% endfor %}
+    {% endfor %}
+  </div>
+</article>
 {% endblock %}
