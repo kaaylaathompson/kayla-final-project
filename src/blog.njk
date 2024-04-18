@@ -1,7 +1,16 @@
 {% extends '_templates/base.njk' %}
 
+{% block page_title %}Blog{% endblock %}
+
+{% block page_description %}A blog from a beginner plant parent.{% endblock %}
+
 {% block content %}
-<div class="container">
-  <p>Content goes here</p>
-</div>
+<article class="container">
+  <div class="blog">
+    {% for blog in blogs.blogs %}
+    <h3><a href="blogs/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
+    <p>{{ blog.date }}</p>
+    {% endfor %}
+  </div>
+</article>
 {% endblock %}

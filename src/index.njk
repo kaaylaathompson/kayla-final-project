@@ -6,11 +6,26 @@
 
 {% block content %}
 <article class="container">
-  <div class="nursery">
-    {% for nursery in nurseries.nurseries %}
-    <h3><a href="{{ nursery.url }}" target="_blank">{{ nursery.nursery_name }}</a></h3>
-    <p>{{ nursery.address }}, {{ nursery.city }}, {{ nursery.state }} {{ nursery.zip }}</p>
-    {% endfor %}
+  <div class="row">
+    <div class="col-md-9">
+      <div class="blog">
+        {% for blog in blogs.blogs %}
+        <h3><a href="blogs/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
+        <p>{{ blog.date }}</p>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="alert alert-success" role="alert">
+        <div class="nursery">
+          {% for nursery in nurseries.nurseries %}
+          <h3><a href="{{ nursery.url }}" class="alert-link" target="_blank">{{ nursery.nursery_name }}</a></h3>
+          <p>{{ nursery.address }}, {{ nursery.city }}, {{ nursery.state }} {{ nursery.zip }}</p>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
   </div>
 </article>
 {% endblock %}
