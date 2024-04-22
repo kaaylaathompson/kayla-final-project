@@ -1,10 +1,20 @@
 #jumbo {
-  background: url(../img/jumbotron/hanging-plants.jpg) no-repeat center;
+  background: url(../img/jumbotron/plant-web-banner.png) no-repeat center;
   background-size: cover;
   color: white;
-  padding-top: 15rem
+  padding: 10rem;
 }
 
 #jumbo {
   margin-bottom: 30px;
+}
+
+#jumbo-title {
+    display: flex;
+    justify-content: center; /* Horizontal centering */
+    align-items: center; /* Vertical centering */
+}
+
+h1 {
+  font-family: "DM Serif Text", serif;
 }
