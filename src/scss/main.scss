@@ -35,14 +35,20 @@
 }
 
 
-h3 {
+h3, h4, h5, .card-header {
   font-size: 1.5rem;
+  font-family: "DM Serif Text", serif;
 }
 
 footer {
   margin-top: 2rem;
 }
 
-p {
+h6, p {
   font-family: serif;
 }
+
+.intro p {
+  font-size: 1.2rem;
+}
+
