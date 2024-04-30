@@ -4,6 +4,7 @@
       "slug": "blog-1",
       "headline": "Hello!",
       "date": "May 1, 2024",
+      "image": "blog-1.jpeg",
       "post": [
         {
           "type": "text",
@@ -19,6 +20,7 @@
       "slug": "blog-2",
       "headline": "Creating a Watering Schedule for Your Indoor Plants",
       "date": "May 18, 2024",
+      "image": "blog-2.jpeg",
       "post": [
         {
           "type": "text",
@@ -34,6 +36,7 @@
       "slug": "blog-3",
       "headline": "Coping with Grief- When Your Plant Isn’t Thriving",
       "date": "June 3, 2024",
+      "image": "blog-3.jpeg",
       "post": [
         {
           "type": "text",
@@ -49,6 +52,7 @@
       "slug": "blog-4",
       "headline": "Personalizing Your Plant Parenthood- Creative Pot Decorating Ideas",
       "date": "June 20, 2024",
+      "image": "blog-4.jpeg",
       "post": [
         {
           "type": "text",

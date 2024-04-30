@@ -7,7 +7,7 @@
 {% block content %}
 <article class="container">
   <div class="row justify-content-evenly">
-    <div class="col col-md-8">
+    <div class="col col-md-7">
       <div class="intro">
         <h4>Hey there, fellow newbies!</h4>
         <p>Welcome to my corner of the internet where we dive headfirst into the wonderful world of indoor plants. As a 22-year-old college student, I've recently discovered the joy and serenity that comes with nurturing these leafy companions. Join me on this journey as we explore everything from choosing the perfect plants for your space to troubleshooting common issues. Let's turn our humble abodes into lush green oases together!</p>
@@ -16,40 +16,34 @@
       <div id="carouselExampleAutoplaying" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-inner">
           <div class="carousel-item active">
-            <img src="img/carousel-photos/fixed_IMG_0227.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_IMG_0227.jpg" class="d-block w-100" alt="Monstera plant at The Great Outdoors in Austin, TX.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_IMG_0230.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_IMG_0230.jpg" class="d-block w-100" alt="Hanging plant at The Great Outdoors in Austin, TX.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_IMG_0253.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_IMG_0253.jpg" class="d-block w-100" alt="Ivy along a wall at The Great Outdoors in Austin, TX.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_IMG_0257.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_IMG_0257.jpg" class="d-block w-100" alt="Aisle full of plants at The Great Outdoors in Austin, TX.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_IMG_0265.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_IMG_0582.jpg" class="d-block w-100" alt="Hand holding up a pink flower.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_IMG_0582.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_KTIMG_0027.jpg" class="d-block w-100" alt="Sun shining through tree branches at Mt. Bonnell in Austin, TX.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_IMG_1156.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_KTIMG_0057.jpg" class="d-block w-100" alt="Tree trunk at Mt. Bonnell in Austin, TX.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_KTIMG_0027.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/fixed_KTIMG_9932.jpg" class="d-block w-100" alt="Exposed tree roots at Mt. Bonnell in Austin, TX.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_KTIMG_0057.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/IMG_2823.jpg" class="d-block w-100" alt="Red flower at Botanica in Wichita, KS.">
           </div>
           <div class="carousel-item">
-            <img src="img/carousel-photos/fixed_KTIMG_9932.jpg" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="img/carousel-photos/IMG_2823.jpg" class="d-block w-100" alt="...">
-          </div>
-          <div class="carousel-item">
-            <img src="img/carousel-photos/IMG_3024.jpg" class="d-block w-100" alt="...">
+            <img src="img/carousel-photos/IMG_3024.jpg" class="d-block w-100" alt="Yellow Daffodils at Botanica in Wichita, KS.">
           </div>
         </div>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
@@ -61,13 +55,15 @@
           <span class="visually-hidden">Next</span>
         </button>
       </div>
+      <p class="photo-credit">Photos by Kayla Thompson.</p>
     </div>
 
-    <div class="col-md-3">
+    <div class="col-md-4">
       <div class="alert alert-success" role="alert">
+        <h2 class="alert-heading">LOCAL NURSERIES</h2>
         <div class="nursery">
           {% for nursery in nurseries.nurseries %}
-          <h3><a href="{{ nursery.url }}" class="alert-link" target="_blank">{{ nursery.nursery_name }}</a></h3>
+          <h4><a href="{{ nursery.url }}" class="alert-link" target="_blank">{{ nursery.nursery_name }}</a></h4>
           <p>{{ nursery.address }}, {{ nursery.city }}, {{ nursery.state }} {{ nursery.zip }}</p>
           {% endfor %}
         </div>

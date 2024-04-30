@@ -19,7 +19,6 @@
 // @import "../../node_modules/bootstrap/scss/mixins";
 
 // Import partials
-@import 'nav';
 @import 'jumbotron';
 
 .dm-serif-text-regular {
@@ -35,8 +34,7 @@
 }
 
 
-h3, h4, h5, .card-header {
-  font-size: 1.5rem;
+h2, h3, h4, h5, .card-header {
   font-family: "DM Serif Text", serif;
 }
 
@@ -52,3 +50,6 @@ h6, p {
   font-size: 1.2rem;
 }
 
+.photo-credit {
+  font-style: italic;
+}

@@ -12,6 +12,9 @@
           <h3>{{ date }}</h3>
           {{ prose(post) }}
       </div>
+      <div class="col-sm-4">
+          <img src="../img/blog-photos/{{ slug }}.jpeg" alt="{{ headline }}" class="img-fluid mb-4">
+      </div>
     </div>
   </article>
 {% endblock %}

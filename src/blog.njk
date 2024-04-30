@@ -7,7 +7,7 @@
 {% block content %}
 <article class="container">
   <div class="row justify-content-evenly">
-    <div class="col col-md-8">
+    <div class="col col-lg-8">
       <div class="blog">
         {% for blog in blogs.blogs %}
         <h3><a href="blogs/{{ blog.slug }}.html">{{ blog.headline }}</a></h3>
@@ -16,16 +16,17 @@
       </div>
     </div>
 
-    <div class="col-md-3">
-        <div class="card text-bg-success" style="width: 18rem;">
-          <div class="card-header text-center">
-            about the blogger!
-          </div>
+    <div class="col col-lg-3">
+      <div class="card text-bg-success" style="width: 18rem;">
+        <div class="card-header text-center">
+          about the blogger!
+        </div>
         <img src="img/IMG_4016.jpg" class="card-img-top" alt="Photo of me in front of my hanging plants.">
         <div class="card-body">
           <p class="card-text">Hi I'm Kayla! I am a young plant mom with a passion for caring for my green babies. I am learning new things about these beautiful living things every day. I hope my journey helps you, let's grow together!</p>
         </div>
+      </div>
+    </div>
   </div>
-
 </article>
 {% endblock %}
